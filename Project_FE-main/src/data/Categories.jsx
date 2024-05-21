@@ -1,0 +1,26 @@
+export const Categories = [
+    {
+        id:1,
+        title:'Fc_Barcelona',
+        img:'../images/photo/lew.jpeg',
+        quantités:10
+    },
+    {
+        id:2,
+        title:'Real_Madrid',
+        img:'../images/photo/belling.jpg',
+        quantités:10
+    },
+    {
+        id:3,
+        title:'Man_City',
+        img:'../images/photo/halland.jpg',
+        quantités:10
+    },
+    {
+        id:4,
+        title:'Arsenal',
+        img:'../images/photo/saka.jpeg',
+        quantités:10
+    }
+]
